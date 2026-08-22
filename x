@@ -1,5 +1,3 @@
-script_key = "2sip5ikfp6q8dsl86575dxfo"
-
 if game.GameId == 292439477 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/asgacvava/l/main/pand"))()
 
